@@ -1,0 +1,4 @@
+settings set target.x86-disassembly-flavor intel
+setting replace use-color true
+setting replace prompt "(vbaudin) "
+script print '\033[34mvbaudin\033[37m'
